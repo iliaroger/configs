@@ -1,0 +1,1 @@
+--- config inlay hints
